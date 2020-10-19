@@ -8,8 +8,7 @@ Implementation and visualization of calculation of gradients, distance between p
 
 ===more about it===
 The code simply helps you mark out points with the mouse button and check the distance, midpoint, or gradients, it calculates them and rounds them to the nearest 1 decimal in pixels
-Update is coming soon (maybe another repo) of using this in an actual scaled map that would be able to measure distance, midpoint gradients and if possible some other stuff, but in 
-cm this time, so it can actually be able to check real distances, and other stuff
+Update is coming soon (maybe another repo) 
 
 ===Help needed===
 Feel free to give constructive feedback or criticism, your help is needed to optimise this project to it's maximum potential,
